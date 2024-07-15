@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ApiGateway/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/../ApiGateway/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List-of-products/List-of-products.iml" filepath="$PROJECT_DIR$/../List-of-products/List-of-products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PayementService/PayementService/PayementService.iml" filepath="$PROJECT_DIR$/../PayementService/PayementService/PayementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RegisterLogin.iml" filepath="$PROJECT_DIR$/.idea/RegisterLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/ServiceRegistry.iml" filepath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry/ServiceRegistry.iml" />
+    </modules>
+  </component>
+</project>
